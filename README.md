@@ -1,12 +1,4 @@
-<br />
-<p align="center">
-  <a href="https://www.coursera.org/projects/covid19-data-analysis-using-python">
-    <img src="./Img/covid19.jpg" alt="covid19" width="50%" height="50%">
-  </a>
-
-  <p align="center" style="font-family: times, serif; font-size:14pt; font-style:italic">
-    <Strong>Covid19 Data Analysis Using Python</Strong>
-  </p>
+# Covid19 Data Analysis Using Python
 
 ## About The Project
 
